@@ -1,0 +1,12 @@
+#block-my-olivero-sub-theme-site-branding > div > a > img{
+  display:none;
+}
+
+
+#block-my-olivero-sub-theme-site-branding > div.site-branding__inner > div > div{
+  font-size: 64px;
+}
+
+#site-header__inner > div > div.mobile-buttons > button > span.mobile-nav-button__label{
+  font-size: 3em;
+}
